@@ -1,1 +1,0 @@
-- Recent project from school: MYSQL-Python
