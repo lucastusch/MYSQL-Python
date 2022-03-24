@@ -1,7 +1,7 @@
 '''
 LT
 HTL 2022
-Databanks-Guessing-Game
+Databank-Guessing-Game
 '''
 
 #imports
